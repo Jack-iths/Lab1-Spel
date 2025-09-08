@@ -3,7 +3,8 @@
     public class MainMenu
     {
         public bool keepPlaying = true;
-        public Character player;  // store the character here
+        public Character player; 
+        
 
         public MainMenu(Character character)
         {
@@ -21,6 +22,8 @@
                 {
                     case "1":
                         Console.WriteLine("Starting Adventure");
+                        Adventure adventure = new Adventure(player);
+                        adventure.Run();
                         break;
                     case "2":
                         Console.WriteLine("Resting");
