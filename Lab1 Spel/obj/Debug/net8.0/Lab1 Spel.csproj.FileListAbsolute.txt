@@ -1,0 +1,14 @@
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\bin\Debug\net8.0\Lab1 Spel.exe
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\bin\Debug\net8.0\Lab1 Spel.deps.json
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\bin\Debug\net8.0\Lab1 Spel.runtimeconfig.json
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\bin\Debug\net8.0\Lab1 Spel.dll
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\bin\Debug\net8.0\Lab1 Spel.pdb
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.AssemblyInfoInputs.cache
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.AssemblyInfo.cs
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.csproj.CoreCompileInputs.cache
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.dll
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\refint\Lab1 Spel.dll
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.pdb
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.genruntimeconfig.cache
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\ref\Lab1 Spel.dll
