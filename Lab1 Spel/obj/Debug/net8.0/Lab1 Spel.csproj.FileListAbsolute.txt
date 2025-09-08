@@ -12,3 +12,4 @@ E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\refint\Lab1 Spel.dll
 E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.pdb
 E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.genruntimeconfig.cache
 E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\ref\Lab1 Spel.dll
+E:\Kod projekt\Vecka 2\Lab1 Spel\Lab1 Spel\obj\Debug\net8.0\Lab1 Spel.sourcelink.json

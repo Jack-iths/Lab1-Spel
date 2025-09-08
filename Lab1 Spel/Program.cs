@@ -1,10 +1,10 @@
 ﻿namespace Lab1_Spel
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to my mini adventure!");
+            Console.WriteLine("Welcome to Realm of shadows!");
             
             Console.WriteLine("Enter your Character's name:");
             string playerName = Console.ReadLine();
@@ -15,10 +15,10 @@
             Character player;
             switch (chosenClass.ToLower())
             {
-                case "Warrior":
+                case "warrior":
                     player = new Warrior(playerName);
                     break;
-                case "Mage":
+                case "mage":
                     player = new Mage(playerName);
                     break;
                 default:
@@ -27,6 +27,8 @@
                     break;
             }
             Console.WriteLine($"Welcomme, {playerName} the {player.characterClass}!");
+            MainMenu menu = new MainMenu(player);
+            menu.Run();
         }
     }
 }

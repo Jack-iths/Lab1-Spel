@@ -45,11 +45,11 @@ För att bli godkänd ska ditt program uppfylla alla punkter nedan:
 8. **Struktur** & läsbarhet
    - Tydliga metodnamn, rimliga variabelnamn, enkel indentering, korta kommentarer vid behov.
    - ## Rekommenderade byggsteg (gör i ordning)
-1. [ ] **Start & spelardata:** Läs in användarnamn. Låt spelaren välja klass 
+1.   [x] **Start & spelardata:** Läs in användarnamn. Låt spelaren välja klass 
    (t.ex. _Warrior/Mage_) och sätt startvärden (HP/MaxHP/skada/guld) beroende på valet. 
-2. [ ] Array för fiender: Skapa en array med fiendenamn (t.ex. _Rat, Goblin, 
+2. [x] Array för fiender: Skapa en array med fiendenamn (t.ex. _Rat, Goblin, 
    Skeleton, Bandit_). 
-3. [ ] **Huvudmeny (loop):** Visa valen _Äventyr, Vila, Status, Avsluta_. Fortsätt loopen tills spelaren dör eller väljer att avsluta. 
+3. [x] **Huvudmeny (loop):** Visa valen _Äventyr, Vila, Status, Avsluta_. Fortsätt loopen tills spelaren dör eller väljer att avsluta. 
 4. [ ] **Äventyr:** Slumpa fram en fiende baserat på fiende-arrayen. Ge fienden rimliga stats (HP, skada, guldbelöning).
 6. [ ] **Stridsloop:** Låt spelaren välja handling (t.ex. _Attack, Heal, Run_). Efter spelarens tur slår fienden om den lever. Avsluta striden när någon når 0 HP. 
 7. [ ] **Belöning eller nederlag:** Vid vinst öka spelarens guld. Vid nederlag 
