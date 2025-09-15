@@ -30,7 +30,6 @@
                         {
                             Console.WriteLine("You died, Game Over.");
                             Screens.ShowGameOver(character);
-                            isFighting = false;
                         }
                         break;
 

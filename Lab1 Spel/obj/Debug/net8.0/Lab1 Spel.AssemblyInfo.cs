@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab1 Spel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45c3c3edeb8bfb057f78e51e1a11e22fa5f551bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+affc4b2797cd6c1b1a3278eb2a8481812f7794de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab1 Spel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab1 Spel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
