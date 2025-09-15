@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jack\\.nuget\\packages\\": {},
+    "C:\\Users\\jackk\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jack\\RiderProjects\\Lab1-Spel\\Lab1 Spel\\Lab1 Spel.csproj",
+      "projectUniqueName": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Lab1 Spel.csproj",
       "projectName": "Lab1 Spel",
-      "projectPath": "C:\\Users\\Jack\\RiderProjects\\Lab1-Spel\\Lab1 Spel\\Lab1 Spel.csproj",
-      "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jack\\RiderProjects\\Lab1-Spel\\Lab1 Spel\\obj\\",
+      "projectPath": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Lab1 Spel.csproj",
+      "packagesPath": "C:\\Users\\jackk\\.nuget\\packages\\",
+      "outputPath": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jackk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

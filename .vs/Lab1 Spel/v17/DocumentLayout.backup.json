@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\mainmenu\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\mainmenu\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\player\\createcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\player\\createcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\mainmenu\\fightsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\mainmenu\\fightsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\mainmenu\\turns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\mainmenu\\turns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\enemies\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\enemies\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\player\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\player\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\player\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\player\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|e:\\kod projekt\\vecka 2\\lab1 spel\\lab1 spel\\player\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5DC1E-0726-4AEB-809B-B04812DDD8BF}|Lab1 Spel\\Lab1 Spel.csproj|solutionrelative:lab1 spel\\player\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +55,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Endscreen.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\Endscreen.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Mainmenu\\Endscreen.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\Endscreen.cs*",
+              "RelativeToolTip": "Lab1 Spel\\Mainmenu\\Endscreen.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:10:51.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Program.cs",
               "RelativeDocumentMoniker": "Lab1 Spel\\Program.cs",
               "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Program.cs",
               "RelativeToolTip": "Lab1 Spel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T10:24:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Turns.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\Turns.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Mainmenu\\Turns.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\Turns.cs",
+              "RelativeToolTip": "Lab1 Spel\\Mainmenu\\Turns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:47:59.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Mainmenu\\MainMenu.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\MainMenu.cs",
+              "RelativeToolTip": "Lab1 Spel\\Mainmenu\\MainMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:44:07.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\Warrior.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Player\\Warrior.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\Warrior.cs",
+              "RelativeToolTip": "Lab1 Spel\\Player\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:48:34.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\Mage.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Player\\Mage.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\Mage.cs",
+              "RelativeToolTip": "Lab1 Spel\\Player\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:32:27.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FightSystem.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\FightSystem.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Mainmenu\\FightSystem.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Mainmenu\\FightSystem.cs",
+              "RelativeToolTip": "Lab1 Spel\\Mainmenu\\FightSystem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:17:51.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\Character.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Player\\Character.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\Character.cs",
+              "RelativeToolTip": "Lab1 Spel\\Player\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:19:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCharacter.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\CreateCharacter.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Player\\CreateCharacter.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Player\\CreateCharacter.cs",
+              "RelativeToolTip": "Lab1 Spel\\Player\\CreateCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:53:54.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemies.cs",
+              "DocumentMoniker": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Enemies\\Enemies.cs",
+              "RelativeDocumentMoniker": "Lab1 Spel\\Enemies\\Enemies.cs",
+              "ToolTip": "E:\\Kod projekt\\Vecka 2\\Lab1 Spel\\Lab1 Spel\\Enemies\\Enemies.cs",
+              "RelativeToolTip": "Lab1 Spel\\Enemies\\Enemies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:32:18.406Z",
               "EditorCaption": ""
             }
           ]

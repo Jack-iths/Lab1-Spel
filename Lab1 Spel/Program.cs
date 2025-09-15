@@ -4,29 +4,13 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Realm of shadows!");
-            
-            Console.WriteLine("Enter your Character's name:");
-            string playerName = Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(" __      __       .__                               \r\n/  \\    /  \\ ____ |  |   ____  ____   _____   ____  \r\n\\   \\/\\/   // __ \\|  | _/ ___\\/  _ \\ /     \\_/ __ \\ \r\n \\        /\\  ___/|  |_\\  \\__(  <_> )  Y Y  \\  ___/ \r\n  \\__/\\  /  \\___  >____/\\___  >____/|__|_|  /\\___  >\r\n       \\/       \\/          \\/            \\/     \\/ ");
+            Console.WriteLine("___________                             .__    .__  __    __                                          \r\n\\__    ___/___     _____ ___.__.   _____|  |__ |__|/  |__/  |_ ___.__.    _________    _____   ____   \r\n  |    | /  _ \\   /     <   |  |  /  ___/  |  \\|  \\   __\\   __<   |  |   / ___\\__  \\  /     \\_/ __ \\  \r\n  |    |(  <_> ) |  Y Y  \\___  |  \\___ \\|   Y  \\  ||  |  |  |  \\___  |  / /_/  > __ \\|  Y Y  \\  ___/  \r\n  |____| \\____/  |__|_|  / ____| /____  >___|  /__||__|  |__|  / ____|  \\___  (____  /__|_|  /\\___  > \r\n                       \\/\\/           \\/     \\/                \\/      /_____/     \\/      \\/     \\/  ");
+            var characterCreator = new CreateCharacter();
+            characterCreator.RunCreation();
 
-            Console.WriteLine("Choose your class (Warrior/Mage):");
-            string chosenClass = Console.ReadLine();
-
-            Character player;
-            switch (chosenClass.ToLower())
-            {
-                case "warrior":
-                    player = new Warrior(playerName);
-                    break;
-                case "mage":
-                    player = new Mage(playerName);
-                    break;
-                default:
-                    Console.WriteLine("No class selected, you will start as the Hobo");
-                    player = new Hobo(playerName);
-                    break;
-            }
-            Console.WriteLine($"Welcomme, {playerName} the {player.characterClass}!");
+            var player = characterCreator.player;
             MainMenu menu = new MainMenu(player);
             menu.Run();
         }
