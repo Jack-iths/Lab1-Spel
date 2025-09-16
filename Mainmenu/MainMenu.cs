@@ -42,7 +42,7 @@
                         break;
                     case "3":
                         Console.WriteLine("Checking Status");
-                        Console.WriteLine($"You have {player.hp}/{player.maxHp} hit points and you have {player.gold} gold");
+                        Console.WriteLine($"{player.name} has {player.hp}/{player.maxHp} hit points and you have {player.gold} gold");
                         break;
                     case "4":
                         Console.WriteLine("Exiting game");

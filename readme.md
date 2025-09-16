@@ -50,13 +50,13 @@ För att bli godkänd ska ditt program uppfylla alla punkter nedan:
 2. [x] Array för fiender: Skapa en array med fiendenamn (t.ex. _Rat, Goblin, 
    Skeleton, Bandit_). 
 3. [x] **Huvudmeny (loop):** Visa valen _Äventyr, Vila, Status, Avsluta_. Fortsätt loopen tills spelaren dör eller väljer att avsluta. 
-4. [ ] **Äventyr:** Slumpa fram en fiende baserat på fiende-arrayen. Ge fienden rimliga stats (HP, skada, guldbelöning).
-6. [ ] **Stridsloop:** Låt spelaren välja handling (t.ex. _Attack, Heal, Run_). Efter spelarens tur slår fienden om den lever. Avsluta striden när någon når 0 HP. 
-7. [ ] **Belöning eller nederlag:** Vid vinst öka spelarens guld. Vid nederlag 
-8. [ ] avsluta spelet med _Game Over_. 
-9. [ ] **Vila:** Återställ en liten mängd HP upp till MaxHP. 
-10. [ ] **Status:** Skriv ut spelarens namn, klass, HP/MaxHP, skada och guld. 
-11. [ ] **Metoder:** Flytta tydliga delmoment till metoder (status, skapa fiende, spelares tur, fiendens tur).
+4. [x] **Äventyr:** Slumpa fram en fiende baserat på fiende-arrayen. Ge fienden rimliga stats (HP, skada, guldbelöning).
+6. [x] **Stridsloop:** Låt spelaren välja handling (t.ex. _Attack, Heal, Run_). Efter spelarens tur slår fienden om den lever. Avsluta striden när någon når 0 HP. 
+7. [x] **Belöning eller nederlag:** Vid vinst öka spelarens guld. Vid nederlag 
+8. [x] avsluta spelet med _Game Over_. 
+9. [x] **Vila:** Återställ en liten mängd HP upp till MaxHP. 
+10. [x] **Status:** Skriv ut spelarens namn, klass, HP/MaxHP, skada och guld. 
+11. [x] **Metoder:** Flytta tydliga delmoment till metoder (status, skapa fiende, spelares tur, fiendens tur).
 12. [ ] **Finjustering:** Testa, skriv tydliga texter, se till att alla krav uppfylls.
 
 ## Bedömningsmatris (snabb)
