@@ -10,7 +10,7 @@ public class CreateCharacter
         Console.WriteLine("Enter your Character's name:");
         playerName = Console.ReadLine();
         Console.WriteLine("Choose your class (Warrior/Mage):");
-        string chosenClass = Console.ReadLine();
+        var chosenClass = Console.ReadLine();
         chosenClass = chosenClass.ToLower();
 
         switch (chosenClass)
